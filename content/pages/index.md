@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-06-19 at 03.57.09_0602d9df.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
