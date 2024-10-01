@@ -56,43 +56,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: 'Hi, i am ichsan fahriansyah'
-    subtitle: >-
-      I am students in paramadina university majoring design visual, especially
-      for design and illustration, because in design i can express and deepen my
-      ideas. beside that i am interested in sketch artwork, painting, 3d
-      modeling, and video editing.
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: center
-        fontWeight: 400
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
