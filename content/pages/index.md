@@ -13,9 +13,10 @@ sections:
   - type: HeroSection
     title: 'Hi, i am ichsan fahriansyah'
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am students in paramadina university majoring design visual, especially
+      for design and illustration, because in design i can express and deepen my
+      ideas. beside that i am interested in sketch artwork, painting, 3d
+      modeling, and video editing.
     actions:
       - type: Button
         label: Hire me
