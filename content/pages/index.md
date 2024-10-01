@@ -56,6 +56,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |
+      Designer visual, sketch & illustration
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
