@@ -16,7 +16,7 @@ sections:
     title: 'Hi, i am ichsan fahriansyah'
     subtitle: >-
       I am students in paramadina university majoring design visual, especially
-      design and illustration
+      for design and illustration
     styles:
       self:
         height: auto
