@@ -17,7 +17,8 @@ sections:
     subtitle: >-
       I am students in paramadina university majoring design visual, especially
       for design and illustration, because in design i can express and deepen my
-      ideas. beside that i am interested in sketch artwork
+      ideas. beside that i am interested in sketch artwork, painting, 3d
+      modeling, and video editing.
     styles:
       self:
         height: auto
