@@ -19,7 +19,7 @@ sections:
       modeling, and video editing.
     actions:
       - type: Button
-        label: Hire me
+        label: ABOUT ME
         altText: ''
         url: /
         showIcon: true
